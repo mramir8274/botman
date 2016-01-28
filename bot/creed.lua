@@ -220,7 +220,7 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {144152859,103365027},--Sudo users
+    sudo_users = {144152859},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -232,7 +232,7 @@ function create_config( )
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
    🔰 @amirmr33
-   🔰 @anonymous_01_02
+   �
  
    
    〰〰〰〰〰〰〰〰
